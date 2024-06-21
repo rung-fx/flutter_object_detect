@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBmQ4KVmEFdX-d0qZ2_UC30xQzT03seZ9g',
-    appId: '1:74021637200:android:b36e313e0b269813d25555',
+    appId: '1:74021637200:android:efc284dd6b5b9664d25555',
     messagingSenderId: '74021637200',
     projectId: 'alcohol-67955',
     storageBucket: 'alcohol-67955.appspot.com',
@@ -59,11 +59,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyD7h2z5Q1ma-C9YYYTV2WyuIzUQH9HjA1M',
-    appId: '1:74021637200:ios:aad1b0d94f7a6f8ad25555',
+    appId: '1:74021637200:ios:8d2130719f3ea03fd25555',
     messagingSenderId: '74021637200',
     projectId: 'alcohol-67955',
     storageBucket: 'alcohol-67955.appspot.com',
-    iosBundleId: 'com.example.testmlkit',
+    iosBundleId: 'com.example.pocDetectObjectTflite',
   );
 
 }

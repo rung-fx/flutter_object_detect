@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74021637200",
+    "project_id": "alcohol-67955",
+    "storage_bucket": "alcohol-67955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74021637200:android:efc284dd6b5b9664d25555",
+        "android_client_info": {
+          "package_name": "com.example.poc_detect_object_tflite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQ4KVmEFdX-d0qZ2_UC30xQzT03seZ9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
